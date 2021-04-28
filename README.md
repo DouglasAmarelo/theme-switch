@@ -1,3 +1,3 @@
 # theme-switch
 
-Estudo de uso de troca de tema usando apenas variáveis css.
+Estudo de uso de CSS Variables para trocar o tema da página.
